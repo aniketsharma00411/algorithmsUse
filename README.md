@@ -16,7 +16,11 @@ Updates to this README are also appreciated.
 
 You can also contact me if you have any issues.
 
----
+
+For info about more repos to contribute to, check out the below post:
+
+https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+
 
 # Current Algorithms
 
