@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1471964395 source:c:\users\cris\desktop\arraylist\list.cpp
+	"list.h"
+
+1471964140 c:\users\cris\desktop\arraylist\list.h
+	<iostream>
+
+1471964305 source:c:\users\cris\desktop\arraylist\main.cpp
+	<iostream>
+	"list.h"
+
+1472134809 source:c:\users\cris\desktop\alfredo catedra\arraylist\main.cpp
+	<iostream>
+	"list.h"
+
+1472136566 c:\users\cris\desktop\alfredo catedra\arraylist\list.h
+	<exception>
+	<iostream>
+
+1472133944 source:c:\users\cris\desktop\alfredo catedra\arraylist\list.cpp
+	"list.h"
+
+1473173536 source:c:\users\cris\desktop\escuela\tercer semestre\alfredo catedra\semana 5 metodo seleccion\main.cpp
+	<iostream>
+	"list.h"
+
+1473776604 c:\users\cris\desktop\escuela\tercer semestre\alfredo catedra\semana 5 metodo seleccion\list.h
+	<exception>
+	<iostream>
+	<fstream>
+
