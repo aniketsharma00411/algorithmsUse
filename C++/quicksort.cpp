@@ -1,5 +1,4 @@
 #include "list.h"
-///LOS TIPOS DE DATOS ABSTRACTOS NO PLATIKAN CON EL USUARIO
 using namespace std;
 
 void List::initialize() {
@@ -16,7 +15,7 @@ bool List::isFull() {
 
 void List::insertData(const int& p, const int& e) {
     if(p < -1 or p>last) {
-        throw ListException("La posicion para insertar no es valida");
+        throw ListException("Position invalid to insert");
 
         }
     int i = last + 1;
@@ -31,7 +30,7 @@ void List::insertData(const int& p, const int& e) {
 
 void List::deleteData(const int&p) {
     if(p<0 or p>last) {
-        throw ListException("La posicion es invalida al eliminar");
+        throw ListException("Position invalid to delete");
         return;
         }
     int i=p;
@@ -51,9 +50,6 @@ int List::getFirstPos() {
     }
 
 int List::getLastPos() {
-    /// if(isEmpty()){
-    ///   return -1;
-    ///}
     return last;
 
     }
@@ -74,7 +70,7 @@ int List::getNext(const int&p) {
 
     }
 
-int List::findData(const int& e) { ///Busqueda Lineal
+int List::findData(const int& e) { ///Lineal Search
     int i=0;
     int j=last;
     int medio;
@@ -96,7 +92,7 @@ int List::findData(const int& e) { ///Busqueda Lineal
 
 int List::retrieve(const int&p) {
     if(isEmpty()or p<0 or p>last) {
-        throw ListException("Elemento inexistente");
+        throw ListException("Non-existent element");
         }
     return data[p];
 
@@ -145,7 +141,7 @@ void List::writeToDisk(std::string fileName) {
 
     myFile.open(fileName,myFile.trunc); ///ios_base::trunc
     if(myFile.is_open()) {
-        throw ListException("No se pudo abrir el archivo,tratando de escribir");
+        throw ListException("Could not open the file");
         }
 
     int i=0;
