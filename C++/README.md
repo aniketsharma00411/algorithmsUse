@@ -4,28 +4,29 @@ Common Algorithms which are usually taught in Data Structures and Algorithms cou
 
 Make sure that they are in C++ and well commented.
 
-Graph Algorithms
+<b>Graph Algorithms</b>
+<br>
 Dijkstra 
 
-Searching Algorithms
-Binary Search
-BFS - Breadth First Search
-DFS- Depth First Search
-Exponential Search
-Linear Search
-Recursive Linear Search
-Stair Case Search
+<b>Searching Algorithms</b><br>
+Binary Search<br>
+BFS - Breadth First Search<br>
+DFS- Depth First Search<br>
+Exponential Search<br>
+Linear Search<br>
+Recursive Linear Search<br>
+Stair Case Search<br>
 
-Others
-Bubble Sort
-Factorial_20
-Huffman Encoding
-insertion
-Kadane's Algorithm
-Merge Sort
-Pascal's Triangle
-Quick Sort
-Selection Sort
-Sieve of Eratosthenes
-String Sorting
-Tower of Hanoi
+<b>Others</b><br>
+Bubble Sort<br>
+Factorial_20<br>
+Huffman Encoding<br>
+insertion<br>
+Kadane's Algorithm<br>
+Merge Sort<br>
+Pascal's Triangle<br>
+Quick Sort<br>
+Selection Sort<br>
+Sieve of Eratosthenes<br>
+String Sorting<br>
+Tower of Hanoi<br>
