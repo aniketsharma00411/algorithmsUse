@@ -1,7 +1,7 @@
 import unittest
 from Python.next_president import winner
 
-class TestStringMethods(unittest.TestCase):
+class Test(unittest.TestCase):
     
     def test_1(self):
         president = winner([1])
