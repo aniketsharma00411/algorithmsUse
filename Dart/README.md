@@ -4,6 +4,6 @@ Common Algorithms which are usually taught in Data Structures and Algorithms cou
 
 Make sure that they are in Dart and well commented.
 
-Sorting Algorithms
-Merge Sort
+<b>Sorting Algorithms</b><br>
+Merge Sort<br>
 Selection Sort
