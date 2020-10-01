@@ -1,6 +1,6 @@
 <h1 align="center">Java</h1> <br>
 
-<center><image src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width ="710" height="235"></image></center>
+<p align="center"><image src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width ="500" height="280"></image></p>
 
 ## Table of Contents
 
