@@ -1,3 +1,9 @@
+"""
+Given an array V of vote decisions, return the winner of the election.
+You are guaranteed to have a winner. Also, you can assume the winner have more than
+floor(n/2) votes in favor.
+"""
+
 from typing import List
 
 def sortingTheArray(V: List[int]) -> int:  # pylint: disable=C0103
