@@ -1,6 +1,6 @@
 <h1 align="center">Java</h1> <br>
 
-<image src="https://i.postimg.cc/LsTpx1wd/Untitled-design-20.png"></image>
+<center><image src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width ="710" height="235"></image></center>
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@
 
 
 ## Unit Tests
-
+--
 
 
 ## Searching
