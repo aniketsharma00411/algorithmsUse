@@ -104,6 +104,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)  
 - [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
+- [Insertion Sort](https://github.com/arushikhokhar/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
 
 <a name="others"></a>
 
