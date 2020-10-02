@@ -61,6 +61,8 @@ Sieve of Eratosthenes<br>
 String Sorting<br>
 Tower of Hanoi<br>
 KMP String Searching Algorithm<br>
+Round Robin Scheduling Algorithm<br>
+
 ## Unit Tests
 
 --
