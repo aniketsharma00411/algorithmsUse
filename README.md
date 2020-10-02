@@ -278,7 +278,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ### Python
 
-<p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.9KDOmqHwpJPAtAsOOyNy0AHaHa%26pid%3DApi&f=1" width ="100" height="100"></image></p>
+<p><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.9KDOmqHwpJPAtAsOOyNy0AHaHa%26pid%3DApi&f=1" width ="100" height="100"></image></p>
 
 #### Table of Contents
 
