@@ -80,6 +80,8 @@
 
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort.java)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
