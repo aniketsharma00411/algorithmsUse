@@ -4,7 +4,7 @@ Common Algorithms which are usually taught in Data Structures and Algorithms cou
 
 ### Hacktoberfest
 
-This repo is Hactoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to this README list it to it will be accepted.
+This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to this README list it to it will be accepted.
 
 ### Contributions
 
@@ -25,6 +25,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 ## C++
 
 - Factorial Algorithm
+- Fibonacci Search
 - Selection Sort
 - Sieve Of Eratosthenes
 - Insertion Sort
@@ -43,6 +44,8 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - Duplicating Zeros
 - Singly Linked List
 - Breadth First Search Algorithm
+- Hangman Game
+- Kadane Algorithm
 
 ## Go
 
