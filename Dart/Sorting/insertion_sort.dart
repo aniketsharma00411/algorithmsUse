@@ -1,4 +1,4 @@
-//Title:Project Euler Prob 2 - Insertion sort
+//Title:Insertion sort
 // Author:ShivamVerma
 // Email:shivamthegreat.sv@gmail.com
 
