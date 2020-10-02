@@ -26,8 +26,6 @@
 
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
 
-- [insertion_sort]()
-
 <a name="unit-tests"></a>
 
 ## Unit Tests
