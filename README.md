@@ -60,10 +60,15 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ### Table of Contents
 
+- [Graph Algorithms](#graph)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
-- [BreadthFirstSearch.js]()
-<a name="searching"></a>
+
+<a name="graph"></a>
+
+### Graph Algorithms
+
+- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bfs.js)
 
 <a name="sorting"></a>
 
