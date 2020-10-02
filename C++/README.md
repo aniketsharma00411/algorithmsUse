@@ -21,6 +21,10 @@
 
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
 
+- [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
+
+- [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
+
 <a name="math"></a>
 
 ## Math
@@ -90,6 +94,8 @@
 - [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
+
+- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
 
 ## Unit Tests
 
