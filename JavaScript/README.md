@@ -1,8 +1,22 @@
-# JavaScript
+<h1 align="center">JavaScript</h1> <br>
 
-Common Algorithms which are usually taught in Data Structures and Algorithms courses.
+<p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1" width ="280" height="280"></image></p>
 
-Make sure that they are in JavaScript and well commented.
+## Table of Contents
 
-<b>Sorting Algorithms</b><br>
-Quick Sort
+- [Sorting](#sorting)
+- [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+<a name="sorting"></a>
+
+## Sorting
+
+- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
+
+<a name="unit-tests"></a>
+
+## Unit Tests
+
+--
