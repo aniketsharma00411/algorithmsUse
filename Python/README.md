@@ -1,10 +1,7 @@
 <h1 align="center">Python</h1> <br>
 
 <p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.9KDOmqHwpJPAtAsOOyNy0AHaHa%26pid%3DApi&f=1" width ="280" height="280"></image></p>
-sheetal
-Make sure that they are in Python3 and well commented.
 
-- Hangman Game.
 ## Table of Contents
 
 - [Graph Algorithms](#graph)
@@ -49,6 +46,8 @@ Make sure that they are in Python3 and well commented.
 
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 
+- [Hangman Game]()
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
@@ -56,4 +55,3 @@ Make sure that they are in Python3 and well commented.
 - [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 
 - [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
-master
