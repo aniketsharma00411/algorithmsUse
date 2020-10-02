@@ -25,6 +25,7 @@
 ## Math
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
+- [Binary_GCD]()
 
 <a name="searching"></a>
 
