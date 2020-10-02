@@ -96,6 +96,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 ### Searching
 
 - [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binarySearch.py)  
+- [LinearSearch]()
 
 <a name="sorting"></a>
 
@@ -114,6 +115,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [Duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)  
 - [Next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)  
 - [Singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)  
+- [rotation of array]()
 <a name="unit-tests"></a>
 
 ### Unit Tests
