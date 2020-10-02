@@ -14,6 +14,8 @@
 
 ## Graph Algorithms
 
+- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
+
 - [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/Dijkstras.py)
 
 <a name="searching"></a>
@@ -34,15 +36,19 @@
 
 ## Miscellaneous
 
+- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+
 - [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/Fibonacci_rec.py)
 
 - [GreatestCommonDivisorEuclidean](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/GreatestCommonDivisorEuclidean.py)
 
-- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+- [hangman_game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 
-- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+- [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
 
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
+
+- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
 
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 
