@@ -1,24 +1,34 @@
 """
 Stack is a LIFO type of structure. the `list` data type in Python allows for an easy implementation of a Stack.
 """
-# create an empty stack
-stack = []
+class Stack:
 
-# add items to the stack [PUSH]
-stack.append(5)
-stack.append(20)
-stack.append(12)
-print('PUSHed into the stack')
+    def __init__(self) -> None:
+        self.stack = []
 
-# print stack
-print('Stack:')
-print(stack) # [5, 20, 12]
+    def push(self, value) -> None:
+        self.stack.append(value)
 
-# access items stored in stack [POP]
-print('POPing items from the stack')
-print(stack.pop()) # 12
-print(stack.pop()) # 20
+    def pop(self):
+        try:
+            value = self.stack.pop()
+        except IndexError:
+            print('Stack Underflow')
+        else:
+            return value
 
-# print stack
-print('Stack:')
-print(stack) # [5]
+    def peek(self) -> list:
+        return self.stack
+
+if __name__ == "__main__":
+    data = Stack()
+    data.push(10)
+    data.push(20)
+
+    print(data.peek())
+
+    print(data.pop())
+    print(data.pop())
+    print(data.pop())
+
+    print(data.peek())
