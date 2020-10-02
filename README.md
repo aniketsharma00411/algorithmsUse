@@ -36,7 +36,6 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ## Java
 
-- Fibonacci Search
 
 ## Python
 
