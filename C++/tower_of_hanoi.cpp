@@ -32,4 +32,4 @@ int main()
 	return 0; 
 } 
 
-// This is code is contributed by kushjaggi
+// This code is contributed by kushjaggi
