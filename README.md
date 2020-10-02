@@ -4,7 +4,7 @@ Common Algorithms which are usually taught in Data Structures and Algorithms cou
 
 ### Hacktoberfest
 
-This repo is Hactoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to this README list it to it will be accepted.
+This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to this README list it to it will be accepted.
 
 ### Contributions
 
