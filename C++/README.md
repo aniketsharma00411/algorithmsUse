@@ -38,6 +38,8 @@
 
 - [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/ExponentialSearch.cpp)
 
+- [Fibonacci_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/Fibonacci_Search.cpp)
+
 - [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/LinearSearch.cpp)
 
 - [RecursiveLinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/RecursiveLinearSearch.cpp)
