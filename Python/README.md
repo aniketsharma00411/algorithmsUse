@@ -15,6 +15,7 @@
 ## Graph Algorithms
 
 - [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/Dijkstras.py)
+- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
 
 <a name="searching"></a>
 
