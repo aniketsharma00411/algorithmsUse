@@ -6,7 +6,7 @@ Make sure that they are in C++ and well commented.
 
 <b>Graph Algorithms</b>
 <br>
-Dijkstra 
+Dijkstra
 
 <b>Searching Algorithms</b><br>
 Binary Search<br>
@@ -30,3 +30,4 @@ Selection Sort<br>
 Sieve of Eratosthenes<br>
 String Sorting<br>
 Tower of Hanoi<br>
+Round Robin Scheduling Algorithm<br>
