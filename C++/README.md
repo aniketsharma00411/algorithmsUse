@@ -71,14 +71,25 @@
 
 ## Miscellaneous
 
-Huffman Encoding<br>
-Kadane's Algorithm<br>
-Pascal's Triangle<br>
-Sieve of Eratosthenes<br>
-String Sorting<br>
-Tower of Hanoi<br>
-KMP String Searching Algorithm<br>
-Round Robin Scheduling Algorithm<br>
+- [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
+
+- [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
+
+- [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)
+
+- [SieveOfEratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/SieveOfEratosthenes.cpp)
+
+- [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
+
+- [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
+
+- [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
+
+- [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
+
+- [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
+
+- [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 
 ## Unit Tests
 
