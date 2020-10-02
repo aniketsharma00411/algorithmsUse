@@ -133,6 +133,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - [Searching](#searching)  
 - [Sorting](#sorting)  
+- [Miscellaneous](#misc)
 - [Unit Tests](#unit-tests)  
 
 <a name="searching"></a>
@@ -147,6 +148,12 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - [Bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)  
 - [Quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)  
+
+<a name="misc"></a>
+
+### Miscellaneous
+
+- [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
  
 <a name="unit-tests"></a>
 
