@@ -4,11 +4,11 @@ Common Algorithms which are usually taught in Data Structures and Algorithms cou
 
 ### Hacktoberfest
 
-This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to this README list it to it will be accepted.
+This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to the README files it will be accepted.
 
 ### Contributions
 
-Add any Algorithm which is not already present in its respective Programming Language directory.
+Add any Algorithm which is not already present in its respective Programming Language directory. Also, update the respective lanuage's README file and the main repo README file with your algorithm's name.
 
 If you don't find your favorite programming language's directory, feel free to create it.
 

@@ -14,8 +14,9 @@
 
 ## Graph Algorithms
 
+- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
+
 - [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/Dijkstras.py)
-- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
 
 <a name="searching"></a>
 
@@ -45,9 +46,9 @@
 
 - [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
 
-- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
-
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
+
+- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
 
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 
