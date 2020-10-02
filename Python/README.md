@@ -34,19 +34,21 @@
 
 ## Miscellaneous
 
+- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+
 - [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/Fibonacci_rec.py)
 
 - [GreatestCommonDivisorEuclidean](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/GreatestCommonDivisorEuclidean.py)
 
-- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+- [hangman_game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 
-- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+- [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
+
+- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
 
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
-
-- [hangman_game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 
 <a name="unit-tests"></a>
 
