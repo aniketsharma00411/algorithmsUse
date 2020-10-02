@@ -27,6 +27,8 @@
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
 
+- [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
+
 <a name="searching"></a>
 
 ## Searching
@@ -57,6 +59,8 @@
 
 - [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
 
+- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
+
 - [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
 
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
@@ -67,14 +71,9 @@
 
 ## Miscellaneous
 
-Bubble Sort<br>
-Factorial_20<br>
 Huffman Encoding<br>
-insertion<br>
 Kadane's Algorithm<br>
-Merge Sort<br>
 Pascal's Triangle<br>
-Selection Sort<br>
 Sieve of Eratosthenes<br>
 String Sorting<br>
 Tower of Hanoi<br>
