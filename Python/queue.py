@@ -1,25 +1,34 @@
 """
 Queue is a FIFO type of structure. The `list` data type in Python allows for an easy implementation of a Queue.
 """
-# create an empty queue
-queue = []
+class Queue:
 
-# add items to the queue
-queue.append(5)
-queue.append(20)
-queue.append(12)
-print('Added items into the queue')
+    def __init__(self) -> None:
+        self.queue = []
 
-# print queue
-print('Queue:')
-print(queue) # [5, 20, 12]
+    def enqueue(self, value) -> None:
+        self.queue.append(value)
 
-# access items stored in queue [POP]
-# pop(0) returns the first element in the list
-print('POPing items from the queue')
-print(queue.pop(0)) # 5
-print(queue.pop(0)) # 20
+    def dequeue(self):
+        try:
+            value = self.queue.pop(0)
+        except IndexError:
+            print('Queue Underflow')
+        else:
+            return value
 
-# print queue
-print('Queue:')
-print(queue) # [12]
+    def peek(self) -> list:
+        return self.queue
+
+if __name__ == "__main__":
+    data = Queue()
+    data.enqueue(10)
+    data.enqueue(20)
+
+    print(data.peek())
+
+    print(data.dequeue())
+    print(data.dequeue())
+    print(data.dequeue())
+
+    print(data.peek())
