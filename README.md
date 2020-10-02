@@ -47,3 +47,12 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - Binary Search
 - Bubble Sort
+
+## Dart
+
+- binary_search
+- linear_search
+- bubble_sort
+- merge_sort
+- selection_sort
+- insertion_sort
