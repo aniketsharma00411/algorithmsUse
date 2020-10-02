@@ -2,11 +2,11 @@
 
 Common Algorithms which are usually taught in Data Structures and Algorithms courses.
 
-### Hacktoberfest
+## Hacktoberfest
 
 This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to the README files it will be accepted.
 
-### Contributions
+## Contributions
 
 Add any Algorithm which is not already present in its respective Programming Language directory. Also, update the respective lanuage's README file and the main repo README file with your algorithm's name.
 
@@ -20,9 +20,9 @@ For info about more repos to contribute to, check out the below post:
 
 https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
 
-# Current Algorithms
+## Current Algorithms
 
-## Table of Contents
+### Table of Contents
 
 - [C++](#C++)
 - [Dart](#Dart)
@@ -34,13 +34,13 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 <a name="C++"></a>
 
-## C++
+### C++
 
-<h1 align="center">C++</h1> <br>
+<!-- <h1 align="center">C++</h1> <br> -->
 
-<p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PhVubETFXOlymmVf-z9xawHaHa%26pid%3DApi&f=1" width ="280" height="280"></image></p>
+<p><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PhVubETFXOlymmVf-z9xawHaHa%26pid%3DApi&f=1" width ="100" height="100"></image></p>
 
-## Table of Contents
+#### Table of Contents
 
 - [Graph Algorithms](#graph)
 - [Math](#math)
@@ -51,25 +51,22 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 <a name="graph"></a>
 
-### Graph Algorithms
+#### Graph Algorithms
 
 - [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Dijktras.cpp)
-
 - [Floyd_Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Floyd_Warshall.cpp)
-
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
 
 <a name="math"></a>
 
-### Math
+#### Math
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
-
 - [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
 
 <a name="searching"></a>
 
-### Searching
+#### Searching
 
 - [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/BinarySearch.cpp)
 
@@ -133,8 +130,8 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 --
 
-
 <a name="Dart"></a>
+
 ## Dart
 
 <h1 align="center">Dart</h1> <br>
@@ -174,6 +171,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 <a name="Java"></a>
 
 ## Java
+
 <h1 align="center">Java</h1> <br>
 
 <p align="center"><image src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width ="500" height="280"></image></p>
