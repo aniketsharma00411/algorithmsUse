@@ -7,7 +7,8 @@
 - [Graph Algorithms](#graph)
 - [Math](#math)
 - [Searching](#searching)
-- [Others](#others)
+- [Sorting](#sorting)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
@@ -46,9 +47,25 @@
 
 - [StairCaseSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/StairCaseSearch.cpp)
 
+<a name="sorting"></a>
+
+## Sorting
+
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
+
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
+
+- [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
+
+- [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
+
+- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
+
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
+
 <a name="others"></a>
 
-## Others
+## Miscellaneous
 
 Bubble Sort<br>
 Factorial_20<br>
@@ -57,7 +74,6 @@ insertion<br>
 Kadane's Algorithm<br>
 Merge Sort<br>
 Pascal's Triangle<br>
-Quick Sort<br>
 Selection Sort<br>
 Sieve of Eratosthenes<br>
 String Sorting<br>
