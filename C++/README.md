@@ -64,6 +64,7 @@ String Sorting<br>
 Tower of Hanoi<br>
 KMP String Searching Algorithm<br>
 Round Robin Scheduling Algorithm<br>
+Radix Sort<br>
 
 ## Unit Tests
 
