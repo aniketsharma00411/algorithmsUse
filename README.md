@@ -40,7 +40,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 <!-- <h1 align="center">C</h1> <br> -->
 
-<p><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ubuntupit.com%2Fwp-content%2Fuploads%2F2019%2F01%2FC-1024x530.jpg&f=1&nofb=1" width ="100" height="100"></image></p>
+<p><image src="https://masterprograming.com/wp-content/uploads/2019/03/c-programming-e1536069688313.png" width ="100" height="100"></image></p>
 
 #### Table of Contents
 
