@@ -7,19 +7,18 @@
 - [Arrays](#arrays)
 - [Recursion](#recursion)
 - [Searching](#searching)
+- [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
 
 <a name="arrays"></a>
 
 ## Arrays
 
-- [FibonacciSeries](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/FibonacciSeries)
-
-- [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
-
 - [checkIfArrayIsSorted](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/checkIfArrayIsSorted.java)
 
 - [deleteElement](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/deleteElement.java)
+
+- [FibonacciSeries](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/FibonacciSeries)
 
 - [getLargestElementIndex](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/getLargestElementIndex.java)
 
@@ -32,6 +31,8 @@
 - [removeDuplicatesFromSortedArray](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/removeDuplicatesFromSortedArray.java)
 
 - [rotateArrayDTimes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/rotateArrayDTimes.java)
+
+- [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
 
 <a name="recursion"></a>
 
@@ -66,6 +67,18 @@
 ## Searching
 
 - [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/binarySearch.java)
+
+- [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/ExponentialSearch.java)
+
+- [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
+
+<a name="sorting"></a>
+
+## Sorting
+
+- [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
+
+- [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
 <a name="unit-tests"></a>
 

@@ -4,10 +4,15 @@
 
 ## Table of Contents
 
+- [Graph Algorithms](#graph)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
 
-<a name="searching"></a>
+<a name="graph"></a>
+
+## Graph Algorithms
+
+- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bfs.js)
 
 <a name="sorting"></a>
 
