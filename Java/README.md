@@ -6,10 +6,16 @@
 
 - [Arrays](#arrays)
 - [Recursion](#recursion)
-- [Unit Tests](#unit-Tests)
 - [Searching](#searching)
+- [Unit Tests](#unit-tests)
+
+<a name="arrays"></a>
 
 ## Arrays
+
+- [FibonacciSeries](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/FibonacciSeries)
+
+- [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
 
 - [checkIfArrayIsSorted](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/checkIfArrayIsSorted.java)
 
@@ -27,6 +33,7 @@
 
 - [rotateArrayDTimes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/rotateArrayDTimes.java)
 
+<a name="recursion"></a>
 
 ## Recursion
 
@@ -52,14 +59,16 @@
 
 - [sumOfNNumbers](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/sumOfNNumbers.java)
 
-- [towerOfHanoiMoveCount](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/towerOfHanoiMoveCount.java) 
+- [towerOfHanoiMoveCount](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/towerOfHanoiMoveCount.java)
 
-
-## Unit Tests
---
-
+<a name="searching"></a>
 
 ## Searching
 
-- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/searching/binarySearch.java)
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/binarySearch.java)
 
+<a name="unit-tests"></a>
+
+## Unit Tests
+
+--
