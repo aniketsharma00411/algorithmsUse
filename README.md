@@ -25,6 +25,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 ## Table of Contents
 
 - [C++](#C++)
+- [Dart](#Dart)
 - [Python](#Python)
 - [Java](#Java)
 - [JavaScript](#Javascript)
@@ -35,20 +36,231 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ## C++
 
-- Factorial Algorithm
-- Fibonacci Search
-- Selection Sort
-- Sieve Of Eratosthenes
-- Insertion Sort
-- Merge Sort
-- Tower of Hanoi
-- KMP String Searching Algorithm
-- Round Robin Scheduling Algorithm
-- Radix Sort
+<h1 align="center">C++</h1> <br>
+
+<p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PhVubETFXOlymmVf-z9xawHaHa%26pid%3DApi&f=1" width ="280" height="280"></image></p>
+
+## Table of Contents
+
+- [Graph Algorithms](#graph)
+- [Math](#math)
+- [Searching](#searching)
+- [Sorting](#sorting)
+- [Miscellaneous](#others)
+- [Unit Tests](#unit-tests)
+
+<a name="graph"></a>
+
+### Graph Algorithms
+
+- [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Dijktras.cpp)
+
+- [Floyd_Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Floyd_Warshall.cpp)
+
+- [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
+
+<a name="math"></a>
+
+### Math
+
+- [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
+
+- [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
+
+<a name="searching"></a>
+
+### Searching
+
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/BinarySearch.cpp)
+
+- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/BreadthFirstSearch.cpp)
+
+- [DepthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/DepthFirstSearch.cpp)
+
+- [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/ExponentialSearch.cpp)
+
+- [Fibonacci_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/Fibonacci_Search.cpp)
+
+- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/LinearSearch.cpp)
+
+- [RecursiveLinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/RecursiveLinearSearch.cpp)
+
+- [StairCaseSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/StairCaseSearch.cpp)
+
+<a name="sorting"></a>
+
+### Sorting
+
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
+
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
+
+- [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
+
+- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
+
+- [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
+
+- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
+
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
+
+<a name="others"></a>
+
+### Miscellaneous
+
+- [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
+
+- [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
+
+- [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)
+
+- [SieveOfEratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/SieveOfEratosthenes.cpp)
+
+- [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
+
+- [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
+
+- [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
+
+- [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
+
+- [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
+
+- [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
+
+### Unit Tests
+
+--
+
+
+<a name="Dart"></a>
+## Dart
+
+<h1 align="center">Dart</h1> <br>
+
+<p align="center"><image src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QCajckOeBhRaLzi0RoFqigHaEK%26pid%3DApi&f=1" width ="474" height="266"></image></p>
+
+## Table of Contents
+
+- [Searching](#searching)
+- [Sorting](#sorting)
+- [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+### Searching
+
+- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
+
+- [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
+
+<a name="sorting"></a>
+
+### Sorting
+
+- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
+
+- [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
+
+- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
+
+<a name="unit-tests"></a>
+
+### Unit Tests
+
+--
 
 <a name="Java"></a>
 
 ## Java
+<h1 align="center">Java</h1> <br>
+
+<p align="center"><image src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width ="500" height="280"></image></p>
+
+## Table of Contents
+
+- [Arrays](#arrays)
+- [Recursion](#recursion)
+- [Searching](#searching)
+- [Sorting](#sorting)
+- [Unit Tests](#unit-tests)
+
+<a name="arrays"></a>
+
+### Arrays
+
+- [checkIfArrayIsSorted](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/checkIfArrayIsSorted.java)
+
+- [deleteElement](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/deleteElement.java)
+
+- [FibonacciSeries](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/FibonacciSeries)
+
+- [getLargestElementIndex](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/getLargestElementIndex.java)
+
+- [insertion](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/insertion.java)
+
+- [leftRotateByOne](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/leftRotateByOne.java)
+
+- [moveZerosToEnd](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/moveZerosToEnd.java)
+
+- [removeDuplicatesFromSortedArray](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/removeDuplicatesFromSortedArray.java)
+
+- [rotateArrayDTimes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/rotateArrayDTimes.java)
+
+- [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
+
+<a name="recursion"></a>
+
+### Recursion
+
+- [binaryExponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/binaryExponentiation.java)
+
+- [checkPalindromeNumber](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/checkPalindromeNumber.java)
+
+- [countDigitsInANumber](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/countDigitsInANumber.java)
+
+- [euclidGCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/euclidGCD.java)
+
+- [factorialUsingRecursion](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/factorialUsingRecursion.java)
+
+- [nCr](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/nCr.java)
+
+- [nthFibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/nthFibonacci.java)
+
+- [printArrayRecursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/printArrayRecursive.java)
+
+- [printOneToN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/printOneToN.java)
+
+- [sumOfDigits](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/sumOfDigits.java)
+
+- [sumOfNNumbers](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/sumOfNNumbers.java)
+
+- [towerOfHanoiMoveCount](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Recursion/towerOfHanoiMoveCount.java)
+
+<a name="searching"></a>
+
+### Searching
+
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/binarySearch.java)
+
+- [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/ExponentialSearch.java)
+
+- [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
+
+<a name="sorting"></a>
+
+### Sorting
+
+- [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
+
+- [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
+
+<a name="unit-tests"></a>
+
+### Unit Tests
+
+--
 
 <a name="Javascript"></a>
 
