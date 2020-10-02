@@ -26,6 +26,8 @@
 
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
 
+- [heap_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/heap_sort.dart)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
