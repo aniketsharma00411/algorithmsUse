@@ -60,7 +60,7 @@ Selection Sort<br>
 Sieve of Eratosthenes<br>
 String Sorting<br>
 Tower of Hanoi<br>
-
+KMP String Searching Algorithm<br>
 ## Unit Tests
 
 --
