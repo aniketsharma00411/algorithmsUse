@@ -26,7 +26,7 @@
 
 ## Miscellaneous
 
-- [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
+- [fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
 
 ## Unit Tests
 
