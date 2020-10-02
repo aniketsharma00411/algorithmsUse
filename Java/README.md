@@ -72,9 +72,9 @@
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
 
-<a name="searching"></a>
+<a name="sorting"></a>
 
-## Searching
+## Sorting
 
 - [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
 

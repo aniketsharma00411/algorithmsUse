@@ -24,6 +24,8 @@
 
 - [binarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binarySearch.py)
 
+- [linear-search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear-search.py)
+
 <a name="sorting"></a>
 
 ## Sorting
