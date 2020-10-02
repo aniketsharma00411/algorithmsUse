@@ -20,18 +20,36 @@
 
 ## Searching
 
-- [binarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Searching/binary_search.go)
+- [binarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binarySearch.py)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
+- [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)
 
-- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)
+- [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
+
+<a name="others"></a>
+
+## Miscellaneous
+
+- [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/Fibonacci_rec.py)
+
+- [GreatestCommonDivisorEuclidean](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/GreatestCommonDivisorEuclidean.py)
+
+- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+
+- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+
+- [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
+
+- [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 
 <a name="unit-tests"></a>
 
 ## Unit Tests
 
---
+- [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
+
+- [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
