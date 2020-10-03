@@ -4,13 +4,12 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Arrays](#arrays)
 - [Recursion](#recursion)
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Unit Tests](#unit-tests)
 - [Miscellaneous](#miscellaneous)
+- [Unit Tests](#unit-tests)
   
 <a name="arrays"></a>
 
@@ -87,14 +86,14 @@
 
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
 
-<a name="unit-tests"></a>
-
-## Unit Tests
-
---
-
 <a name="others"></a>
 
 ## Miscellaneous
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
+
+<a name="unit-tests"></a>
+
+## Unit Tests
+
+--
