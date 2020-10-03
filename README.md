@@ -171,6 +171,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)
+- [radix sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
 <a name="misc"></a>
 
