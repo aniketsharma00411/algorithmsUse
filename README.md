@@ -245,6 +245,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
+- [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
 
 <a name="unit-tests"></a>
 
