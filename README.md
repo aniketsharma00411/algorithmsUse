@@ -256,9 +256,9 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 --
 <a name="others"></a>
 
-## Miscellaneous
+#### Miscellaneous
 
-- [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/ValidParentheses.java)
+- [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
 
 <a name="Javascript"></a>
 
