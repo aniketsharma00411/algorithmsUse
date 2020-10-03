@@ -97,6 +97,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
 - [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
+- [Josephus_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Josephus_problem.cpp)
 - [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
 - [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)

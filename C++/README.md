@@ -85,6 +85,8 @@
 
 - [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
 
+- [Josephus_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Josephus_problem.cpp)
+
 - [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
 
 - [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
@@ -104,8 +106,6 @@
 - [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
 
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
-
-- [Josephus_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Josephus_problem.cpp)
 
 ## Unit Tests
 
