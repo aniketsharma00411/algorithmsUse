@@ -34,7 +34,8 @@
 ## Math
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
-- [Binary_GCD]()
+
+- [Binary_GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Binary_GCD.cpp)
 
 - [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
 

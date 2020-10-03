@@ -34,11 +34,9 @@
 
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
 
-- [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
-
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
 
-
+- [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 
 <a name="others"></a>
 
