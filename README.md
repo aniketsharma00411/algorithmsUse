@@ -31,6 +31,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [JavaScript](#Javascript)
 - [Python](#Python)
 - [Swift](#Swift)
+- [Rust](#Rust) 
 
 <a name="C++"></a>
 
@@ -359,3 +360,23 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Unit Tests
 
 --
+
+### Rust
+
+<p><image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width ="100" height="100"></image>image></p>
+
+#### Table of Contents
+
+- [Sorting](#sortinginrs)
+
+<a name="sortinginrs"></a>
+
+#### Sorting
+
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
+
+<a name="unit-tests"></a>
+
+#### Unit Tests
+
+-- 
