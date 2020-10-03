@@ -4,12 +4,14 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Arrays](#arrays)
 - [Recursion](#recursion)
 - [Searching](#searching)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
-
+- [Miscellaneous](#miscellaneous)
+  
 <a name="arrays"></a>
 
 ## Arrays
@@ -72,6 +74,7 @@
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
 
+
 <a name="sorting"></a>
 
 ## Sorting
@@ -89,3 +92,9 @@
 ## Unit Tests
 
 --
+
+<a name="others"></a>
+
+## Miscellaneous
+
+- [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)

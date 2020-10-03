@@ -197,6 +197,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Searching](#searching)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
+- [Miscellaneous](#others)
+
 
 <a name="arrays"></a>
 
@@ -252,6 +254,11 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Unit Tests
 
 --
+<a name="others"></a>
+
+## Miscellaneous
+
+- [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/ValidParentheses.java)
 
 <a name="Javascript"></a>
 
