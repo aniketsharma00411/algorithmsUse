@@ -18,8 +18,10 @@
 
 ## Sorting
 
-- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
 - [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/MergeSort.js)
+
+- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
