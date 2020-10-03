@@ -63,6 +63,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Math
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
+- [Binary_GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Binary_GCD.cpp)
 - [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
 
 <a name="searching"></a>
@@ -314,6 +315,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
 - [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 
 <a name="others"></a>

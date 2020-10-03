@@ -36,6 +36,10 @@
 
 - [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
+
+
+
 <a name="others"></a>
 
 ## Miscellaneous
