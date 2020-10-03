@@ -196,8 +196,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Recursion](#recursion)
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Unit Tests](#unit-tests)
 - [Miscellaneous](#others)
+- [Unit Tests](#unit-tests)
 
 
 <a name="arrays"></a>
@@ -249,16 +249,17 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
 
-<a name="unit-tests"></a>
-
-#### Unit Tests
-
---
 <a name="others"></a>
 
 #### Miscellaneous
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
+
+<a name="unit-tests"></a>
+
+#### Unit Tests
+
+--
 
 <a name="Javascript"></a>
 
