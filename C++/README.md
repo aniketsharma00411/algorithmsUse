@@ -89,6 +89,8 @@
 
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
 
+- [majority_element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
+
 - [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
 
 - [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)

@@ -1,24 +1,22 @@
 # algorithmsUse
 
-Common Algorithms which are usually taught in Data Structures and Algorithms courses.
+This repository is a single destination of all the common algorithms which are taught in Data Structures and Algorithms courses. These implementations are for learning purposes and may not be the most efficient way for solving problems.
+
+If you find any issues with the currently present implementations, feel to to correct them or create an issue mentioning those.
 
 ## Hacktoberfest
 
-This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to the README files it will be accepted.
+This repo is Hacktoberfest friendly. But make sure that the you don't spam with PRs. Read the `CONTRIBUTING.md` file for Contribution Guidelines.
+
+For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
+
+https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
 
 ## Contributions
 
-Add any Algorithm which is not already present in its respective Programming Language directory. Also, update the respective lanuage's README file and the main repo README file with your algorithm's name.
+Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
 
-If you don't find your favorite programming language's directory, feel free to create it.
-
-Update this README and the respective language's README with your program's name.
-
-You can also contact me if you have any issues.
-
-For info about more repos to contribute to, check out the below post:
-
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+You can also create an issue or [contact us](https://github.com/aniketsharma00411) if you have any doubts.
 
 ## Current Algorithms
 
