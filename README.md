@@ -248,6 +248,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/InsertionSort.java)
 
 <a name="others"></a>
 
