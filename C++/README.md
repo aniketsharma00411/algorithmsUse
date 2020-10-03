@@ -105,6 +105,8 @@
 
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 
+- [Josephus_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Josephus_problem.cpp)
+
 ## Unit Tests
 
 --
