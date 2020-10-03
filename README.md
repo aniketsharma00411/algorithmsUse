@@ -1,24 +1,22 @@
-# AlgorithmsUse
+# algorithmsUse
 
-Common Algorithms which are usually taught in Data Structures and Algorithms courses.
+This repository is a single destination of all the common algorithms which are taught in Data Structures and Algorithms courses. These implementations are for learning purposes and may not be the most efficient way for solving problems.
+
+If you find any issues with the currently present implementations, feel to to correct them or create an issue mentioning those.
 
 ## Hacktoberfest
 
-This repo is Hacktoberfest friendly. As long as the program is properly commented, variable names are intuited, program works, is not already present, and added to the README files it will be accepted.
+This repo is Hacktoberfest friendly. But make sure that the you don't spam with PRs. Read the `CONTRIBUTING.md` file for Contribution Guidelines.
+
+For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
+
+https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
 
 ## Contributions
 
-Add any Algorithm which is not already present in its respective Programming Language directory. Also, update the respective lanuage's README file and the main repo README file with your algorithm's name.
+Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
 
-If you don't find your favorite programming language's directory, feel free to create it.
-
-Updates to this README are also appreciated.
-
-You can also contact me if you have any issues.
-
-For info about more repos to contribute to, check out the below post:
-
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+You can also create an issue or [contact us](https://github.com/aniketsharma00411) if you have any doubts.
 
 ## Current Algorithms
 
@@ -31,6 +29,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [JavaScript](#Javascript)
 - [Python](#Python)
 - [Swift](#Swift)
+- [Rust](#Rust)
 
 <a name="C++"></a>
 
@@ -52,14 +51,19 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Graph Algorithms
 
 - [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Dijktras.cpp)
+- [Flood_Fill_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Flood_Fill_Algorithm.cpp)
 - [Floyd_Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Floyd_Warshall.cpp)
+- [Hamiltonian_Path_Cycle_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Hamiltonian_Path_Cycle_Algorithm.cpp)
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
+- [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
+- [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
 
 <a name="math"></a>
 
 #### Math
 
 - [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
+- [Binary_GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Binary_GCD.cpp)
 - [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
 
 <a name="searching"></a>
@@ -91,15 +95,16 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 #### Miscellaneous
 
-- [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
-- [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
-- [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)
-- [SieveOfEratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/SieveOfEratosthenes.cpp)
-- [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
 - [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
 - [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
+- [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
+- [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
+- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
 - [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
+- [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)
+- [SieveOfEratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/SieveOfEratosthenes.cpp)
 - [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
+- [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 
 #### Unit Tests
@@ -132,6 +137,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
 - [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
+- [insertion_sort]()
 
 <a name="unit-tests"></a>
 
@@ -236,6 +242,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Sorting
 
 - [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
 <a name="unit-tests"></a>
@@ -266,6 +273,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 #### Sorting
 
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/MergeSort.js)
 - [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
 
 <a name="unit-tests"></a>
@@ -307,8 +315,8 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
-- [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
+- [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 
 <a name="others"></a>
 
@@ -321,8 +329,10 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 - [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+- [queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
 - [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
+- [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
 <a name="unit-tests"></a>
 
@@ -330,6 +340,28 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 - [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 - [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
+
+<a name="Rust"></a>
+
+### Rust
+
+<p><image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width ="100" height="100"></image></p>
+
+#### Table of Contents
+
+- [Sorting](#sorting)
+
+<a name="sorting"></a>
+
+#### Sorting
+
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
+
+<a name="unit-tests"></a>
+
+#### Unit Tests
+
+--
 
 <a name="Swift"></a>
 
