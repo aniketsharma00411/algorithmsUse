@@ -54,9 +54,13 @@
 
 - [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
 
+- [queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
+
 - [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
+
+- [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
 <a name="unit-tests"></a>
 

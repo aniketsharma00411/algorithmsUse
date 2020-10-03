@@ -320,8 +320,10 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 - [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+- [queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
 - [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
+- [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
 <a name="unit-tests"></a>
 
