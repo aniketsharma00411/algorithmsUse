@@ -240,6 +240,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Sorting
 
 - [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
 <a name="unit-tests"></a>
