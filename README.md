@@ -31,7 +31,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [JavaScript](#Javascript)
 - [Python](#Python)
 - [Swift](#Swift)
-- [Rust](#Rust) 
+- [Rust](#Rust)
 
 <a name="C++"></a>
 
@@ -339,6 +339,28 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 - [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
 
+<a name="Rust"></a>
+
+### Rust
+
+<p><image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width ="100" height="100"></image></p>
+
+#### Table of Contents
+
+- [Sorting](#sorting)
+
+<a name="sorting"></a>
+
+#### Sorting
+
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
+
+<a name="unit-tests"></a>
+
+#### Unit Tests
+
+--
+
 <a name="Swift"></a>
 
 ### Swift
@@ -368,23 +390,3 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Unit Tests
 
 --
-
-### Rust
-
-<p><image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width ="100" height="100"></image>image></p>
-
-#### Table of Contents
-
-- [Sorting](#sortinginrs)
-
-<a name="sortinginrs"></a>
-
-#### Sorting
-
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
-
-<a name="unit-tests"></a>
-
-#### Unit Tests
-
--- 
