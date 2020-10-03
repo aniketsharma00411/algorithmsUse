@@ -91,6 +91,8 @@
 
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 
+- [Stock_buy_and_sell_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Stock_buy_and_sell_problem.cpp)
+
 ## Unit Tests
 
 --

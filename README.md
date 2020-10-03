@@ -101,6 +101,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 - [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
 - [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
+- [Stock_buy_and_sell_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Stock_buy_and_sell_problem.cpp)
 
 #### Unit Tests
 
