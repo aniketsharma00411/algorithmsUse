@@ -53,7 +53,9 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 #### Graph Algorithms
 
 - [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Dijktras.cpp)
+- [Flood_Fill_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Flood_Fill_Algorithm.cpp)
 - [Floyd_Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Floyd_Warshall.cpp)
+- [Hamiltonian_Path_Cycle_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Hamiltonian_Path_Cycle_Algorithm.cpp)
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
 - [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)

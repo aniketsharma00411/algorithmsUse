@@ -31,91 +31,66 @@ The values in the given 2D screen indicate colours of the pixels. X and Y are co
  on screen[X][Y] and all surrounding pixels with the same colour. Hence all the 2 are replaced with 3.
 */
 
-
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 //check is for checking that if  moving direction is valid or not
-bool check(int i,int j,int n,int m,vector<vector<bool>>visit)
+bool check(int i, int j, int n, int m, vector<vector<bool>> visit)
 {
-    if( i<0 || j<0||i>=n||j>=m || visit[i][j]==true)
+    if (i < 0 || j < 0 || i >= n || j >= m || visit[i][j] == true)
         return false;
-    return true;    
+    return true;
 }
 
 //flood fill algorithm is implmented using dfs algorithms
-void dfs(vector<vector<int>>&a,int i,int j,int pix,int k,int n,int m,vector<vector<bool>>&visit)
+void dfs(vector<vector<int>> &a, int i, int j, int pix, int k, int n, int m, vector<vector<bool>> &visit)
 {
-    if(check(i,j,n,m,visit) && a[i][j]==pix)
+    if (check(i, j, n, m, visit) && a[i][j] == pix)
     {
-        a[i][j]=k;
-        visit[i][j]=true;
-        dfs(a,i-1,j,pix,k,n,m,visit);
-        dfs(a,i+1,j,pix,k,n,m,visit);
-        dfs(a,i,j+1,pix,k,n,m,visit);
-        dfs(a,i,j-1,pix,k,n,m,visit);
+        a[i][j] = k;
+        visit[i][j] = true;
+        dfs(a, i - 1, j, pix, k, n, m, visit);
+        dfs(a, i + 1, j, pix, k, n, m, visit);
+        dfs(a, i, j + 1, pix, k, n, m, visit);
+        dfs(a, i, j - 1, pix, k, n, m, visit);
     }
 }
 
-
 int main()
 {
-    int n,m,isrc,jsrc,k;
-    
+    int n, m, isrc, jsrc, k;
+
     //n,m are rows and column of matrix a
-        cin>>n>>m;
-        
-        vector<vector<int>>a(n,vector<int>(m,0));
-        
-        //visited matrix to check of the vertes is previuosly visited or not
-        vector<vector<bool>>visit(n,vector<bool>(m,false));
-        
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                cin>>a[i][j];
-            }
-        }
-        
-        //isrc , jsrc  are sourc element indices
-        // k is the value with whch the pixel to be replaced
-        cin>>isrc>>jsrc>>k;
-        
-        //dfs algorithm  
-        dfs(a,isrc,jsrc,a[isrc][jsrc],k,n,m,visit);
-        
-        //printing the resultant matrix
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                cout<<a[i][j]<<" ";                
-            }
-            cout<<endl;
-        }
-        cout<<endl;
+    cin >> n >> m;
 
+    vector<vector<int>> a(n, vector<int>(m, 0));
+
+    //visited matrix to check of the vertes is previuosly visited or not
+    vector<vector<bool>> visit(n, vector<bool>(m, false));
+
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            cin >> a[i][j];
+        }
+    }
+
+    //isrc , jsrc  are sourc element indices
+    // k is the value with whch the pixel to be replaced
+    cin >> isrc >> jsrc >> k;
+
+    //dfs algorithm
+    dfs(a, isrc, jsrc, a[isrc][jsrc], k, n, m, visit);
+
+    //printing the resultant matrix
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            cout << a[i][j] << " ";
+        }
+        cout << endl;
+    }
+    cout << endl;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
