@@ -8,8 +8,9 @@
 - [Recursion](#recursion)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Miscellaneous](#miscellaneous)
 - [Unit Tests](#unit-tests)
-
+  
 <a name="arrays"></a>
 
 ## Arrays
@@ -72,6 +73,7 @@
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
 
+
 <a name="sorting"></a>
 
 ## Sorting
@@ -83,6 +85,12 @@
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
+
+<a name="others"></a>
+
+## Miscellaneous
+
+- [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
 
 <a name="unit-tests"></a>
 
