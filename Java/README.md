@@ -78,6 +78,8 @@
 
 - [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/bubbleSort.java)
 
+- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
+
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
 <a name="unit-tests"></a>
