@@ -82,6 +82,8 @@
 
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 
+- [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
