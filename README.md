@@ -132,6 +132,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
 - [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
+- [jump_search]()
 
 <a name="sorting"></a>
 
