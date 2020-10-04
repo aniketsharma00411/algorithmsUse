@@ -131,17 +131,17 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Searching
 
 - [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
+- [jump_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
 - [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
-- [jump_search]()
 
 <a name="sorting"></a>
 
 #### Sorting
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
+- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
 - [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
-- [insertion_sort]()
 
 <a name="unit-tests"></a>
 
@@ -202,7 +202,6 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Sorting](#sorting)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
-
 
 <a name="arrays"></a>
 
