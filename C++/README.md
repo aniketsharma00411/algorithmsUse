@@ -65,6 +65,8 @@
 
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
 
+- [CocktailSort](https://github.com/joey2031/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/Cocktail_Sort.cpp)
+
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
 
 - [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
