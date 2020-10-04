@@ -327,7 +327,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
 - [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
-- [Quick Sort](https://github.com/anoop447/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
 
 <a name="others"></a>
 
