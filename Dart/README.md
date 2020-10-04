@@ -14,9 +14,9 @@
 
 - [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
 
-- [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
+- [jump_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
 
-- [jump_search]()
+- [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
 
 <a name="sorting"></a>
 
@@ -24,11 +24,11 @@
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
 
+- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
+
 - [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
-
-- [insertion_sort]()
 
 <a name="unit-tests"></a>
 
