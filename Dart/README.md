@@ -16,6 +16,8 @@
 
 - [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
 
+- [jump_search]()
+
 <a name="sorting"></a>
 
 ## Sorting
