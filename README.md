@@ -107,6 +107,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 - [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
+- [dp_coin_change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
 
 #### Unit Tests
 
