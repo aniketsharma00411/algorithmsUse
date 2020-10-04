@@ -38,7 +38,7 @@
 
 - [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
 
-- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
+- [Quick Sort](https://github.com/anoop447/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
 
 <a name="others"></a>
 
