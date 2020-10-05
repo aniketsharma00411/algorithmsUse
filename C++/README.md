@@ -29,6 +29,9 @@
 
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
 
+- [Mininum Cost Path Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/min_cost_path_in_graph.cpp)
+
+
 <a name="math"></a>
 
 ## Math
