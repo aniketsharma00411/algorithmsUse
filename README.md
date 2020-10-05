@@ -369,10 +369,10 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/BubbleSort.rs)
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/MergeSort.rs)
-- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/SelectionSort.rs)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
 
 <a name="unit-tests"></a>
 
