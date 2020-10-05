@@ -10,7 +10,10 @@
 
 ## Sorting
 
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/BubbleSort.rs)
 - [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/MergeSort.rs)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/SelectionSort.rs)
 
 <a name="unit-tests"></a>
 
