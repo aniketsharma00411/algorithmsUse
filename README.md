@@ -57,7 +57,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
 - [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
-
+- [Cycle in Directed Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
+- [Cycle in UnDirected Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
 <a name="math"></a>
 
 #### Math
