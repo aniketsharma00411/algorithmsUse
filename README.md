@@ -277,6 +277,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Graph Algorithms](#graph)
 - [Sorting](#sorting)
+- [Searching](#searching)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
@@ -293,6 +294,13 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/quick_sort.js)
 - [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/insertion_sort.js)
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bubble_sort.js)
+
+<a name="searching"></a>
+
+#### Searching
+
+- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/linear_search.js)
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/binary_search.js)
 
 <a name="unit-tests"></a>
 
