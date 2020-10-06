@@ -74,7 +74,7 @@
 - [PreorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
 - [PostorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
 - [LevelorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
-- [InververBinaryTree](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
+- [InvertBinaryTree](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
 
 <a name="sorting"></a>
 
