@@ -43,6 +43,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Math](#math)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Tree Alogrithms](#tree)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
@@ -92,6 +93,17 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
+
+
+
+<a name="tree"></a>
+#### Tree Algorithms
+
+- [InorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
+- [PreorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
+- [PostorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
+- [LevelorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
+- [InvertBinaryTree](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
 
 <a name="others"></a>
 
