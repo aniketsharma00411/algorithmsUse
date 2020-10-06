@@ -97,7 +97,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 
 <a name="tree"></a>
-## Tree Algorithms
+#### Tree Algorithms
 
 - [InorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
 - [PreorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
