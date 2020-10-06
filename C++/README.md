@@ -77,6 +77,8 @@
 
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
 
+- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/CycleSort.cpp)
+
 <a name="others"></a>
 
 ## Miscellaneous
