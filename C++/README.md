@@ -8,7 +8,7 @@
 - [Math](#math)
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Tree Algorithms] (#tree algorithms)
+- [Tree Algorithms](#tree algorithms)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
