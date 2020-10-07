@@ -13,18 +13,18 @@
 
 ## Graph Algorithms
 
-- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bfs.js)
+- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bfs.js)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/merge_sort.js)
-- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/quick_sort.js)
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/insertion_sort.js)
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bubble_sort.js)
-- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/selection_sort.js)
-- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/radix_sort.js)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/merge_sort.js)
+- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/insertion_sort.js)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bubble_sort.js)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
 
 <a name="searching"></a>
 
