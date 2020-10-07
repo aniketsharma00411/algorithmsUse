@@ -294,6 +294,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/quick_sort.js)
 - [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/insertion_sort.js)
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bubble_sort.js)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/selection_sort.js)
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/radix_sort.js)
 
 <a name="searching"></a>
 
