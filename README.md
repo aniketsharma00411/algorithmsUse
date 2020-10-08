@@ -83,7 +83,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bubble_Sort.cpp)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
 - [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
 - [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
