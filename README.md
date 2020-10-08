@@ -51,8 +51,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Graph Algorithms
 
-- [Cycle in Directed Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
-- [Cycle in Undirected Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
+- [Cycle in Directed Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
+- [Cycle in Undirected Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
 - [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/dijktras.cpp)
 - [Flood Fill Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/flood_fill_algorithm.cpp)
 - [Floyd Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/floyd_warshall.cpp)
