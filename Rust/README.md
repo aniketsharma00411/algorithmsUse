@@ -4,8 +4,17 @@
 
 ## Table of Contents
 
+- [Searching](#searching)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+## Searching
+
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/binary_search.rs)
+
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/linear_search.rs)
 
 <a name="sorting"></a>
 
