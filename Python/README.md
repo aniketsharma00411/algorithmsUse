@@ -54,6 +54,8 @@
 
 - [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
 
+- [majority_element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/majority_element.py)
+
 - [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 
 - [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
