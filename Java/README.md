@@ -10,7 +10,7 @@
 - [Sorting](#sorting)
 - [Miscellaneous](#miscellaneous)
 - [Unit Tests](#unit-tests)
-  
+
 <a name="arrays"></a>
 
 ## Arrays
@@ -27,7 +27,7 @@
 
 - [leftRotateByOne](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/leftRotateByOne.java)
 
-- [moveZerosToEnd](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/moveZerosToEnd.java)
+- [MoveZerosToEnd](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/MoveZerosToEnd.java)
 
 - [removeDuplicatesFromSortedArray](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/removeDuplicatesFromSortedArray.java)
 
@@ -72,7 +72,6 @@
 - [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/ExponentialSearch.java)
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
-
 
 <a name="sorting"></a>
 
