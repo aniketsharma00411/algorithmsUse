@@ -32,7 +32,7 @@
 
 - [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/kruskal.cpp)
 
-- [Minimum Cost Path Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/min_cost_path_in_graph.cpp)
+- [Minimum Cost Path Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/min_cost_path_of_graph.cpp)
 
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/prim.cpp)
 
@@ -72,9 +72,13 @@
 
 - [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bubble_sort.cpp)
 
-- [Cocktail Sort](https://github.com/joey2031/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/cocktail_sort.cpp)
+- [Bucket Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bucket_sort.cpp)
+
+- [Cocktail Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/cocktail_sort.cpp)
 
 - [Counting Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/counting_sort.cpp)
+
+- [Cycle Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/cycle_sort.cpp)
 
 - [Heap Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heap_sort.cpp)
 
@@ -86,6 +90,8 @@
 
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/radix_sort.cpp)
 
+- [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
+
 <a name="tree"></a>
 
 ## Tree Algorithms
@@ -96,15 +102,9 @@
 
 - [Level Order Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
 
-- [Preorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
-
 - [Postorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
 
-- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Cycle_Sort.cpp)
-
-- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bucket_Sort.cpp)
-
-- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Shell_Sort.cpp)
+- [Preorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
 
 <a name="others"></a>
 
