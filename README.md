@@ -93,6 +93,9 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
+- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Cycle_Sort.cpp)
+- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bucket_Sort.cpp)
+- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Shell_Sort.cpp)
 
 
 

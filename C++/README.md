@@ -96,6 +96,12 @@
 
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
 
+- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Cycle_Sort.cpp)
+
+- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bucket_Sort.cpp)
+
+- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Shell_Sort.cpp)
+
 <a name="others"></a>
 
 ## Miscellaneous
