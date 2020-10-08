@@ -43,6 +43,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Math](#math)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Tree Alogrithms](#tree)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
@@ -57,7 +58,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
 - [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
-
+- [Cycle in Directed Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
+- [Cycle in UnDirected Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
 <a name="math"></a>
 
 #### Math
@@ -84,12 +86,27 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Sorting
 
 - [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
+- [cocktail_sort](https://github.com/joey2031/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/cocktail_sort.cpp)
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
 - [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
 - [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
 - [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
+- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Cycle_Sort.cpp)
+- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bucket_Sort.cpp)
+- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Shell_Sort.cpp)
+
+
+
+<a name="tree"></a>
+#### Tree Algorithms
+
+- [InorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
+- [PreorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
+- [PostorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
+- [LevelorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
+- [InvertBinaryTree](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
 
 <a name="others"></a>
 
@@ -107,7 +124,10 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 - [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
 - [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
-
+- [Stock_buy_and_sell_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)
+- [dp_coin_change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
+- [Trapping_Rain_Water](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Trapping_Rain_Water.cpp)
+- [Leaders_in_an_array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Leaders_in_an_array.cpp)
 #### Unit Tests
 
 --
@@ -129,6 +149,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Searching
 
 - [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
+- [jump_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
 - [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
 
 <a name="sorting"></a>
@@ -136,9 +157,9 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Sorting
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
+- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
 - [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 - [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
-- [insertion_sort]()
 
 <a name="unit-tests"></a>
 
@@ -171,6 +192,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
 - [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)
+- [radix sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
 <a name="misc"></a>
 
@@ -198,7 +220,6 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Sorting](#sorting)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
-
 
 <a name="arrays"></a>
 
@@ -248,6 +269,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
+- [insertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/insertion_sort.java)
 
 <a name="others"></a>
 
@@ -271,20 +293,32 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Graph Algorithms](#graph)
 - [Sorting](#sorting)
+- [Searching](#searching)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
 
 #### Graph Algorithms
 
-- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bfs.js)
+- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bfs.js)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/MergeSort.js)
-- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/merge_sort.js)
+- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/insertion_sort.js)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bubble_sort.js)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
+
+<a name="searching"></a>
+
+#### Searching
+
+- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/linear_search.js)
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/binary_search.js)
 
 <a name="unit-tests"></a>
 
@@ -327,6 +361,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
 - [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
 
 <a name="others"></a>
 
@@ -343,6 +378,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 - [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
+- [is_anagram](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
 
 <a name="unit-tests"></a>
 
@@ -365,7 +401,10 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Sorting
 
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/InsertionSort.rs)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
 
 <a name="unit-tests"></a>
 

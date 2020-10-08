@@ -6,21 +6,32 @@
 
 - [Graph Algorithms](#graph)
 - [Sorting](#sorting)
+- [Searching](#searching)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
 
 ## Graph Algorithms
 
-- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/bfs.js)
+- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bfs.js)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/MergeSort.js)
+- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/merge_sort.js)
+- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
+- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/insertion_sort.js)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bubble_sort.js)
+- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
+- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
 
-- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/sorting/QuickSort.js)
+<a name="searching"></a>
+
+## Searching
+
+- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/linear_search.js)
+- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/binary_search.js)
 
 <a name="unit-tests"></a>
 
