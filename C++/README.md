@@ -30,6 +30,8 @@
 
 - [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
 
+- [Mininum Cost Path Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/min_cost_path_in_graph.cpp)
+
 - [Cycle in Directed Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
 
 - [Cycle in UnDirected Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
