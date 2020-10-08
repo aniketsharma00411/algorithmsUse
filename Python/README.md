@@ -66,6 +66,8 @@
 
 - [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
+- [is_anagram](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
