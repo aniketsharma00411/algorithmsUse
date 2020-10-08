@@ -63,7 +63,7 @@
 
 ## Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bubble_Sort.cpp)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
 
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
 
