@@ -69,6 +69,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Binary Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_exponentiation.cpp)
 - [Binary GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_gcd.cpp)
 - [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
+- [Fibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Fibonacci.cpp)
 
 <a name="searching"></a>
 
