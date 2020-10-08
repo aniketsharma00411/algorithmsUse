@@ -112,7 +112,7 @@
 
 - [DP Coin Change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
 
-- [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
+- [Greedy Money Change Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
 
 - [Huffman Encoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffman_encoding.cpp)
 

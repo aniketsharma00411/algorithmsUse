@@ -12,23 +12,23 @@
 
 ## Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
 
-- [jump_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
+- [Jump Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
 
-- [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
 
-- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
 
-- [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 
-- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
 
 <a name="unit-tests"></a>
 
