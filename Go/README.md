@@ -20,7 +20,7 @@
 
 - [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
 
-- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)
+- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
 
 - [radix sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
