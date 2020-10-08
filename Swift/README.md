@@ -12,13 +12,13 @@
 
 ## Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Searching/binary_search.swift)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Searching/binary_search.swift)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
 
 <a name="unit-tests"></a>
 
