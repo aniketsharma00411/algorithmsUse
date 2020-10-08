@@ -362,6 +362,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 - [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
 - [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
+- [is_anagram](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
 
 <a name="unit-tests"></a>
 
