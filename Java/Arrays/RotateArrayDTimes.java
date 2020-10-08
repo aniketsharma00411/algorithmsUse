@@ -1,7 +1,7 @@
 package Array;
 
-class rotateArrayDTimes {
-    static void reverse(int[] a, int i, int j) {
+public class RotateArrayDTimes {
+    static private void reverse(int[] a, int i, int j) {
         while (i < j) {
             int temp = a[i];
             a[i] = a[j];
