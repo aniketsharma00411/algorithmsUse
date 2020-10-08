@@ -6,29 +6,32 @@
 
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="searching"></a>
 
 ## Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Searching/binary_search.go)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Searching/binary_search.go)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
 
-- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
 
-- [radix sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
+- [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
-<a name="unit-tests"></a>
+<a name="others"></a>
 
 ## Miscellaneous
 
-- [fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
+- [Fibonacci Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
+
+<a name="unit-tests"></a>
 
 ## Unit Tests
 
