@@ -63,7 +63,7 @@
 
 ## Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
+- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bubble_Sort.cpp)
 
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
 
@@ -77,11 +77,11 @@
 
 - [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
 
-- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/CycleSort.cpp)
+- [CycleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Cycle_Sort.cpp)
 
-- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BucketSort.cpp)
+- [BucketSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Bucket_Sort.cpp)
 
-- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/ShellSort.cpp)
+- [ShellSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/Shell_Sort.cpp)
 
 <a name="others"></a>
 
