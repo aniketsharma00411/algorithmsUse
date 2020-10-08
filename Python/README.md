@@ -14,64 +14,64 @@
 
 ## Graph Algorithms
 
-- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
+- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/breadth_first_search.py)
 
-- [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/Dijkstras.py)
+- [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/dijkstras.py)
 
 <a name="searching"></a>
 
 ## Searching
 
-- [binarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binarySearch.py)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binary_search.py)
 
-- [linear-search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear-search.py)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear_search.py)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [bubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubble_sort.py)
 
-- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/insertion_sort.py)
 
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
 
-- [selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection_sort.py)
 
-- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quick_sort.py)
 
 <a name="others"></a>
 
 ## Miscellaneous
 
-- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+- [Duplicate Zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
 
-- [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/Fibonacci_rec.py)
+- [Fibonacci Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/fibonacci_rec.py)
 
-- [GreatestCommonDivisorEuclidean](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/GreatestCommonDivisorEuclidean.py)
+- [Greatest Common Divisor](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/gcd.py)
 
-- [hangman_game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
+- [Hangman Game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 
-- [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
+- [Is Anagram?](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
 
-- [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
+- [Kadane Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadane_algorithm.py)
 
-- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
+- [Next President](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 
-- [queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
+- [Prime upto N](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/prime_upto_n.py)
 
-- [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
+- [Queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
 
-- [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
+- [Rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
 
-- [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
+- [Single Linked List](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/single_linked_list.py)
 
-- [is_anagram](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
+- [Stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
 <a name="unit-tests"></a>
 
 ## Unit Tests
 
-- [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
+- [Duplicate Zeros Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 
-- [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
+- [Next President Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
