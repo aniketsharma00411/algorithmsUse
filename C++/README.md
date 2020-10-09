@@ -58,6 +58,8 @@
 
 - [Josephus problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/josephus_problem.cpp)
 
+- [Matrix exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/matrix_exponentiation.cpp)
+
 - [Pascal triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pascal_triangle.cpp)
 
 - [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
