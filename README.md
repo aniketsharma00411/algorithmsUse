@@ -39,17 +39,26 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Table of Contents
 
+- [Dynamic Programming](#dynamic-programming)
 - [Graph Algorithms](#graph)
 - [Math](#math)
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Tree Alogrithms](#tree)
+- [String](#string)
+- [Tree Algorithms](#tree)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
+<a name="dynamic-programming"/>
+
+## Dynamic Programming
+
+- [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
+- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
+
 <a name="graph"></a>
 
-#### Graph Algorithms
+## Graph Algorithms
 
 - [Cycle in Directed Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
 - [Cycle in Undirected Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
@@ -64,15 +73,18 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 <a name="math"></a>
 
-#### Math
+## Math
 
 - [Binary Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_exponentiation.cpp)
 - [Binary GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_gcd.cpp)
 - [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
+- [Josephus problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/josephus_problem.cpp)
+- [Pascal triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pascal_triangle.cpp)
+- [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
 
 <a name="searching"></a>
 
-#### Searching
+## Searching
 
 - [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/binary_search.cpp)
 - [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/breadth_first_search.cpp)
@@ -85,7 +97,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 <a name="sorting"></a>
 
-#### Sorting
+## Sorting
 
 - [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bubble_sort.cpp)
 - [Bucket Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bucket_sort.cpp)
@@ -99,9 +111,14 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/radix_sort.cpp)
 - [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
 
+<a name="string"></a>
+
+- [KMP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Strings/kmp_algo.cpp)
+- [String sorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Strings/string_sorting.cpp)
+
 <a name="tree"></a>
 
-#### Tree Algorithms
+## Tree Algorithms
 
 - [Inorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
 - [Invert Binary Tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
@@ -111,27 +128,20 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 <a name="others"></a>
 
-#### Miscellaneous
+## Miscellaneous
 
-- [DP Coin Change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
 - [Greedy Money Change Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
 - [Huffman Encoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffman_encoding.cpp)
-- [Josephus Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/josephus_problem.cpp)
 - [Kadanes Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kadanes_algo.cpp)
-- [KMP Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kmp_algo.cpp)
-- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
 - [Leaders in an array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/leaders_in_an_array.cpp)
 - [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
-- [Pascal Triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascal_triangle.cpp)
 - [Round Robin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/round_robin.cpp)
-- [Sieve of Eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sieve_of_eratosthenes.cpp)
 - [Shortest Job First](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 - [Stock buy and sell problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)
-- [String Sorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/string_sorting.cpp)
 - [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 - [Trapping Rain Water](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/trapping_rain_water.cpp)
 
-#### Unit Tests
+## Unit Tests
 
 --
 
