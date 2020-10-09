@@ -4,16 +4,29 @@
 
 ## Table of Contents
 
+- [Searching](#searching)
 - [Sorting](#sorting)
+- [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+## Searching
+
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/binary_search.rs)
+
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/linear_search.rs)
 
 <a name="sorting"></a>
 
 ## Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
-- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
+
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
+
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
+
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
 
 <a name="unit-tests"></a>
 

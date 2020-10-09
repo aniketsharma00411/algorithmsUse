@@ -51,80 +51,86 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Graph Algorithms
 
-- [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Dijktras.cpp)
-- [Flood_Fill_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Flood_Fill_Algorithm.cpp)
-- [Floyd_Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Floyd_Warshall.cpp)
-- [Hamiltonian_Path_Cycle_Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Hamiltonian_Path_Cycle_Algorithm.cpp)
-- [Kosaraju_algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kosaraju_algorithm.cpp)
-- [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Kruskal.cpp)
-- [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/Prim.cpp)
-- [Cycle in Directed Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
-- [Cycle in UnDirected Graph](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
+- [Cycle in Directed Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_directed_graph.cpp)
+- [Cycle in Undirected Graph](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/cycle_in_undirected_graph.cpp)
+- [Dijktras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/dijktras.cpp)
+- [Flood Fill Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/flood_fill_algorithm.cpp)
+- [Floyd Warshall](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/floyd_warshall.cpp)
+- [Hamiltonian Path Cycle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/hamiltonian_path_cycle.cpp)
+- [Kosaraju Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/kosaraju_algorithm.cpp)
+- [Kruskal's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/kruskal.cpp)
+- [Minimum Cost Path Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/min_cost_path_of_graph.cpp)
+- [Prim's Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Graph%20Algorithms/prim.cpp)
+
 <a name="math"></a>
 
 #### Math
 
-- [binary_Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_Exponentiation.cpp)
-- [Binary_GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Binary_GCD.cpp)
-- [Factorial_20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Factorial_20.cpp)
+- [Binary Exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_exponentiation.cpp)
+- [Binary GCD](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/binary_gcd.cpp)
+- [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
 
 <a name="searching"></a>
 
 #### Searching
 
-- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/BinarySearch.cpp)
-- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/BreadthFirstSearch.cpp)
-- [DepthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/DepthFirstSearch.cpp)
-- [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/ExponentialSearch.cpp)
-- [Fibonacci_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/Fibonacci_Search.cpp)
-- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/LinearSearch.cpp)
-- [RecursiveLinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/RecursiveLinearSearch.cpp)
-- [StairCaseSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/StairCaseSearch.cpp)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/binary_search.cpp)
+- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/breadth_first_search.cpp)
+- [Depth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/depth_first_search.cpp)
+- [Exponential Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/exponential_search.cpp)
+- [Fibonacci Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/fibonacci_search.cpp)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/linear_search.cpp)
+- [Recursive Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/recursive_linear_search.cpp)
+- [Stair Case Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/stair_case_search.cpp)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/BubbleSort.cpp)
-- [cocktail_sort](https://github.com/joey2031/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/cocktail_sort.cpp)
-- [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/countingSort.cpp)
-- [heapsort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heapsort.cpp)
-- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
-- [mergesort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/mergesort.cpp)
-- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quicksort.cpp)
-- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/RadixSort.cpp)
-
-
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bubble_sort.cpp)
+- [Bucket Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/bucket_sort.cpp)
+- [Cocktail Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/issue-1/C%2B%2B/Sorting/cocktail_sort.cpp)
+- [Counting Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/counting_sort.cpp)
+- [Cycle Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/cycle_sort.cpp)
+- [Heap Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/heap_sort.cpp)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/insertion_sort.cpp)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/merge_sort.cpp)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quick_sort.cpp)
+- [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/radix_sort.cpp)
+- [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
 
 <a name="tree"></a>
+
 #### Tree Algorithms
 
-- [InorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
-- [PreorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
-- [PostorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
-- [LevelorderTraversal](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
-- [InvertBinaryTree](https://github.com/Ch-Lokesh/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
+- [Inorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
+- [Invert Binary Tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
+- [Level Order Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/level_order_traversal.cpp)
+- [Postorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/postorder_traversal.cpp)
+- [Preorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/preorder_traversal.cpp)
 
 <a name="others"></a>
 
 #### Miscellaneous
 
-- [greedy_money_change_recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
-- [huffmanencoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffmanencoding.cpp)
-- [Josephus_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Josephus_problem.cpp)
-- [KadanesAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KadanesAlgo.cpp)
-- [KMPAlgo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/KMPAlgo.cpp)
+- [DP Coin Change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
+- [Greedy Money Change Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
+- [Huffman Encoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffman_encoding.cpp)
+- [Josephus Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/josephus_problem.cpp)
+- [Kadanes Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kadanes_algo.cpp)
+- [KMP Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kmp_algo.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
-- [pascaltriangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascaltriangle.cpp)
-- [RoundRobin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/RoundRobin.cpp)
-- [SieveOfEratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/SieveOfEratosthenes.cpp)
-- [sjf](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
-- [StringSorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/StringSorting.cpp)
-- [tower_of_hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
-- [Stock_buy_and_sell_problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)
-- [dp_coin_change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
-- [Trapping_Rain_Water](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Trapping_Rain_Water.cpp)
-- [Leaders_in_an_array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/Leaders_in_an_array.cpp)
+- [Leaders in an array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/leaders_in_an_array.cpp)
+- [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
+- [Pascal Triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascal_triangle.cpp)
+- [Round Robin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/round_robin.cpp)
+- [Sieve of Eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sieve_of_eratosthenes.cpp)
+- [Shortest Job First](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
+- [Stock buy and sell problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)
+- [String Sorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/string_sorting.cpp)
+- [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
+- [Trapping Rain Water](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/trapping_rain_water.cpp)
+
 #### Unit Tests
 
 --
@@ -145,18 +151,18 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
-- [jump_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
-- [linear_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
+- [Jump Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
-- [insertion_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
-- [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
-- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/bubble_sort.dart)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
 
 <a name="unit-tests"></a>
 
@@ -174,28 +180,28 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Searching](#searching)
 - [Sorting](#sorting)
-- [Miscellaneous](#misc)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="searching"></a>
 
 #### Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Searching/binary_search.go)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Searching/binary_search.go)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [bubble_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
-- [quicksort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quicksort.go)
-- [radix sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
+- [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
 <a name="misc"></a>
 
 #### Miscellaneous
 
-- [fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
+- [Fibonacci Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Miscellaneous/fibonacci_rec.go)
 
 <a name="unit-tests"></a>
 
@@ -266,6 +272,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [countingSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/countingSort)
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
+- [insertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/insertion_sort.java)
 
 <a name="others"></a>
 
@@ -288,33 +295,33 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Table of Contents
 
 - [Graph Algorithms](#graph)
-- [Sorting](#sorting)
 - [Searching](#searching)
+- [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
 
 #### Graph Algorithms
 
-- [bfs](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bfs.js)
-
-<a name="sorting"></a>
-
-#### Sorting
-
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/merge_sort.js)
-- [QuickSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/insertion_sort.js)
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bubble_sort.js)
-- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
-- [RadixSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
+- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bfs.js)
 
 <a name="searching"></a>
 
 #### Searching
 
-- [LinearSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/linear_search.js)
-- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/binary_search.js)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/binary_search.js)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Searching/linear_search.js)
+
+<a name="sorting"></a>
+
+#### Sorting
+
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/bubble_sort.js)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/insertion_sort.js)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/merge_sort.js)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
+- [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
 
 <a name="unit-tests"></a>
 
@@ -340,48 +347,50 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Graph Algorithms
 
-- [BreadthFirstSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/BreadthFirstSearch.py)
-- [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/Dijkstras.py)  
-  <a name="searching"></a>
+- [Breadth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/breadth_first_search.py)
+- [Dijkstras](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Graph%20Algorithms/dijkstras.py)
+
+<a name="searching"></a>
 
 #### Searching
 
-- [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binarySearch.py)
-- [linear-search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear-search.py)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binary_search.py)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear_search.py)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubbleSort.py)
-- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/Insertion%20Sort.py)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/bubble_sort.py)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/insertion_sort/Python/Sorting/insertion_sort.py)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/merge_sort.py)
-- [Selection sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection%20sort.py)
-- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quickSort.py)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection_sort.py)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quick_sort.py)
 
 <a name="others"></a>
 
 #### Miscellaneous
 
-- [duplicate_zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
-- [Fibonacci_rec](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/Fibonacci_rec.py)
-- [GreatestCommonDivisorEuclidean](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/GreatestCommonDivisorEuclidean.py)
-- [hangman_game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
-- [kadaneAlgorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadaneAlgorithm.py)
-- [majority_element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/majority_element.py)
-- [next_president](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
-- [PrimeUptoN](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/PrimeUptoN.py)
-- [queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
-- [rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
-- [singlelinkedlist](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/singlelinkedlist.py)
-- [stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
+- [Duplicate Zeros](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/duplicate_zeros.py)
+- [Fibonacci Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/fibonacci_rec.py)
+- [Greatest Common Divisor](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/gcd.py)
+- [Hangman Game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
+- [Is Anagram?](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
+- [Kadane Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadane_algorithm.py)
+- [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/majority_element.py)
+- [Next President](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
+- [Prime upto N](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/prime_upto_n.py)
+- [Queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
+- [Rotation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/rotation.py)
+- [Single Linked List](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/single_linked_list.py)
+- [Stack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/stack.py)
 
 <a name="unit-tests"></a>
 
 #### Unit Tests
 
-- [duplicate_zeros_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
-- [next_president_test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
+- [Duplicate Zeros Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
+- [Next President Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
 
 <a name="Rust"></a>
 
@@ -391,16 +400,25 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Table of Contents
 
+- [Searching](#searching)
 - [Sorting](#sorting)
+- [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+#### Searching
+
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/binary_search.rs)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/linear_search.rs)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [BubbleSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
-- [InsertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
-- [MergeSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
-- [SelectionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/bubble_sort.rs)
+- [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
+- [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
 
 <a name="unit-tests"></a>
 
@@ -424,13 +442,13 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Searching
 
-- [binary_search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Searching/binary_search.swift)
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Searching/binary_search.swift)
 
 <a name="sorting"></a>
 
 #### Sorting
 
-- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
 
 <a name="unit-tests"></a>
 
