@@ -378,6 +378,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Hangman Game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 - [Is Anagram?](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
 - [Kadane Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadane_algorithm.py)
+- [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/majority_element.py)
 - [Next President](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 - [Prime upto N](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/prime_upto_n.py)
 - [Queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
@@ -400,8 +401,16 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Table of Contents
 
+- [Searching](#searching)
 - [Sorting](#sorting)
 - [Unit Tests](#unit-tests)
+
+<a name="searching"></a>
+
+#### Searching
+
+- [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/binary_search.rs)
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Searching/linear_search.rs)
 
 <a name="sorting"></a>
 
