@@ -136,6 +136,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Kadanes Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kadanes_algo.cpp)
 - [Leaders in an array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/leaders_in_an_array.cpp)
 - [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
+- [Range sum using segment tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/range_sum_segment_tree.cpp)
 - [Round Robin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/round_robin.cpp)
 - [Shortest Job First](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 - [Stock buy and sell problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)

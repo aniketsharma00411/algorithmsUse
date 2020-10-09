@@ -144,6 +144,8 @@
 
 - [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
 
+- [Range sum using segment tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/range_sum_segment_tree.cpp)
+
 - [Round Robin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/round_robin.cpp)
 
 - [Shortest Job First](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
