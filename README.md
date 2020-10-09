@@ -377,6 +377,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Hangman Game](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/hangman_game.py)
 - [Is Anagram?](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/is_anagram.py)
 - [Kadane Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/kadane_algorithm.py)
+- [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/majority_element.py)
 - [Next President](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/next_president.py)
 - [Prime upto N](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/prime_upto_n.py)
 - [Queue](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Miscellaneous/queue.py)
