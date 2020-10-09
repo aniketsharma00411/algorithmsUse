@@ -46,7 +46,7 @@
 
 - [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
 
-- [Fibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Fibonacci.cpp)
+- [Fibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/fibonacci.cpp)
 
 <a name="searching"></a>
 
