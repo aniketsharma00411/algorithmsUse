@@ -56,6 +56,8 @@
 
 - [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
 
+- [Fibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/fibonacci.cpp)
+
 - [Josephus problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/josephus_problem.cpp)
 
 - [Matrix exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/matrix_exponentiation.cpp)
