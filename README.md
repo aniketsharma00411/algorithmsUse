@@ -273,9 +273,9 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [heapSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/heapSort.java)
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
 - [insertionSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/insertion_sort.java)
-- [quick_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/quick_Sort.java)
-- [merge_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/merge_Sort.java)
-- [insertion_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/insertion_Sort.java)
+- [quick_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/quick_sort.java)
+- [merge_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/merge_sort.java)
+- [selection_sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/selection_sort.java)
 
 <a name="others"></a>
 
