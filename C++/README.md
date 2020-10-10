@@ -4,13 +4,23 @@
 
 ## Table of Contents
 
+- [Dynamic Programming](#dynamic-programming)
 - [Graph Algorithms](#graph)
 - [Math](#math)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [String](#string)
 - [Tree Algorithms](#tree)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
+
+<a name="dynamic-programming"/>
+
+## Dynamic Programming
+
+- [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
+
+- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 
 <a name="graph"></a>
 
@@ -47,6 +57,14 @@
 - [Factorial upto 20](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/factorial_20.cpp)
 
 - [Fibonacci](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/fibonacci.cpp)
+
+- [Josephus problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/josephus_problem.cpp)
+
+- [Matrix exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/matrix_exponentiation.cpp)
+
+- [Pascal triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pascal_triangle.cpp)
+
+- [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
 
 <a name="searching"></a>
 
@@ -94,6 +112,12 @@
 
 - [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
 
+<a name="string"></a>
+
+- [KMP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Strings/kmp_algo.cpp)
+
+- [String sorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Strings/string_sorting.cpp)
+
 <a name="tree"></a>
 
 ## Tree Algorithms
@@ -112,35 +136,23 @@
 
 ## Miscellaneous
 
-- [DP Coin Change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/dp_coin_change.cpp)
-
 - [Greedy Money Change Recursive](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/greedy_money_change_recursive.cpp)
 
 - [Huffman Encoding](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/huffman_encoding.cpp)
 
-- [Josephus Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/josephus_problem.cpp)
-
 - [Kadanes Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kadanes_algo.cpp)
-
-- [KMP Algo](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/kmp_algo.cpp)
-
-- [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/lcs.cpp)
 
 - [Leaders in an array](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/leaders_in_an_array.cpp)
 
 - [Majority Element](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/majority_element.cpp)
 
-- [Pascal Triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/pascal_triangle.cpp)
+- [Range sum using segment tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/range_sum_segment_tree.cpp)
 
 - [Round Robin](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/round_robin.cpp)
-
-- [Sieve of Eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sieve_of_eratosthenes.cpp)
 
 - [Shortest Job First](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/sjf.cpp)
 
 - [Stock buy and sell problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/stock_buy_and_sell_problem.cpp)
-
-- [String Sorting](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/string_sorting.cpp)
 
 - [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Miscellaneous/tower_of_hanoi.cpp)
 
