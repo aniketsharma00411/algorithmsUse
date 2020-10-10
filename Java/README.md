@@ -85,6 +85,12 @@
 
 - [timSort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/tim_sort.java)
 
+- [quick_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/quick_Sort.java)
+
+- [merge_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/merge_Sort.java)
+
+- [insertion_Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Sorting/insertion_Sort.java)
+
 <a name="others"></a>
 
 ## Miscellaneous
