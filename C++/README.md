@@ -82,6 +82,8 @@
 
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/linear_search.cpp)
 
+- [Quick Select](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/quick_select.cpp)
+
 - [Recursive Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/recursive_linear_search.cpp)
 
 - [Stair Case Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/stair_case_search.cpp)

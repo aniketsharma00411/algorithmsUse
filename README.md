@@ -94,6 +94,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Exponential Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/exponential_search.cpp)
 - [Fibonacci Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/fibonacci_search.cpp)
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/linear_search.cpp)
+- [Quick Select](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/quick_select.cpp)
 - [Recursive Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/recursive_linear_search.cpp)
 - [Stair Case Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/stair_case_search.cpp)
 
