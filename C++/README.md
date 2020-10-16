@@ -124,6 +124,8 @@
 
 - [Check is balanced](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/balanced_binary_tree_check.cpp)
 
+- [Binary Tree to Doubly LinkedList](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/binary_tree_to_doublyLL.cpp)
+
 - [Inorder Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inorder_traversal.cpp)
 
 - [Invert Binary Tree](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Tree%20Alogrithms/inverse_binary_tree.cpp)
