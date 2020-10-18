@@ -347,7 +347,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 #### Unit Tests
 
---
+- [Bubble Sort Test](https://github.com/myusrilh/algorithmsUse/blob/master/JavaScript/Unit%20Tests/bubble_sort_test.js)
 
 <a name="Python"></a>
 
