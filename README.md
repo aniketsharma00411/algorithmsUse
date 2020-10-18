@@ -376,6 +376,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binary_search.py)
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear_search.py)
+- [Jump Search](https://github.com/birat21sk/algorithmsUse/blob/master/Python/Searching/jump_search.py)
 
 <a name="sorting"></a>
 
