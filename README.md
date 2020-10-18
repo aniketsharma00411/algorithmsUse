@@ -180,6 +180,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/insertion_sort.dart)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/merge_sort.dart)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/quick_sort.dart)
 
 <a name="unit-tests"></a>
 
