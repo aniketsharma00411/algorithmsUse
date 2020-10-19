@@ -73,6 +73,8 @@
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
 
+- [Maze](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Maze.java)
+
 <a name="sorting"></a>
 
 ## Sorting
