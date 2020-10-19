@@ -55,6 +55,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
+- [Interval_queries](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/interval_queries)
 
 <a name="graph"></a>
 
