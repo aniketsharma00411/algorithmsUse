@@ -24,9 +24,11 @@
 
 - [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/binary_search.py)
 
-- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear_search.py)
+- [Interpolation Search](https://github.com/Niveshpai/algorithmsUse/blob/master/Python/Searching/interpolation.py)
 
 - [Jump Search](https://github.com/birat21sk/algorithmsUse/blob/master/Python/Searching/jump_search.py)
+
+- [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Searching/linear_search.py)
 
 <a name="sorting"></a>
 
