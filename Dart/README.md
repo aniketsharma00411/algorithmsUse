@@ -30,6 +30,8 @@
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/selection_sort.dart)
 
+- [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Sorting/quick_sort.dart)
+
 <a name="unit-tests"></a>
 
 ## Unit Tests
