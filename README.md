@@ -213,7 +213,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/bubble_sort.go)
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
-
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/Selection_sort.go)
 <a name="misc"></a>
 
 #### Miscellaneous
