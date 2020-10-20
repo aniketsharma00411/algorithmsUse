@@ -93,6 +93,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Depth First Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/depth_first_search.cpp)
 - [Exponential Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/exponential_search.cpp)
 - [Fibonacci Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/fibonacci_search.cpp)
+- [Interpolation Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/interpolation_search.cpp)
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/linear_search.cpp)
 - [Quick Select](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/quick_select.cpp)
 - [Recursive Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/recursive_linear_search.cpp)
