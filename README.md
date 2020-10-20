@@ -114,6 +114,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/merge_sort.cpp)
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/quick_sort.cpp)
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/radix_sort.cpp)
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/selection_sort.cpp)
 - [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
 
 <a name="string"></a>
