@@ -68,7 +68,7 @@
 
 - [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
 
--[Particular_sum](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Particular_sum)
+-[particular_sum](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/Particular_sum)
 
 <a name="searching"></a>
 
