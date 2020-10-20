@@ -14,6 +14,8 @@
 
 - [Binary Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/binary_search.dart)
 
+- [Interpolation Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/interpolation_search.dart)
+
 - [Jump Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/jump_search.dart)
 
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Dart/Searching/linear_search.dart)
