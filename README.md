@@ -255,6 +255,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [removeDuplicatesFromSortedArray](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/removeDuplicatesFromSortedArray.java)
 - [rotateArrayDTimes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/rotateArrayDTimes.java)
 - [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
+- [Arraysum using functions](https://github.com/Aditya060/algorithmsUse/blob/master/Java/Arrays/array_sum)
 
 <a name="recursion"></a>
 
