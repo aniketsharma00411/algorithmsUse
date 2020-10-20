@@ -80,6 +80,8 @@
 
 - [Fibonacci Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/fibonacci_search.cpp)
 
+- [Interpolation Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/interpolation_search.cpp)
+
 - [Linear Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/linear_search.cpp)
 
 - [Quick Select](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/quick_select.cpp)
