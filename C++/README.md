@@ -114,6 +114,8 @@
 
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/radix_sort.cpp)
 
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/selection_sort.cpp)
+
 - [Shell Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Sorting/shell_sort.cpp)
 
 <a name="string"></a>
