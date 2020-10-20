@@ -35,6 +35,8 @@
 
 - [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
 
+- [Arraysum using functions](https://github.com/Aditya060/algorithmsUse/blob/master/Java/Arrays/array_sum)
+
 <a name="recursion"></a>
 
 ## Recursion
