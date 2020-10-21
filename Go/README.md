@@ -25,6 +25,7 @@
 
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 
+- [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/selection_sort.go)
 <a name="others"></a>
 
 ## Miscellaneous
