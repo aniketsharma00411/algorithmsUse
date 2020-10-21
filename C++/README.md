@@ -62,6 +62,8 @@
 
 - [Matrix exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/matrix_exponentiation.cpp)
 
+- [nCr_mod_prime](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/nCr_mod_prime.cpp)
+
 - [Pascal triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pascal_triangle.cpp)
 
 - [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
