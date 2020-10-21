@@ -20,6 +20,7 @@
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
 
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/bubble_sort.swift)
 <a name="unit-tests"></a>
 
 ## Unit Tests

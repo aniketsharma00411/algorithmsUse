@@ -477,7 +477,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 #### Sorting
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
-
+- [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/bubble_sort.swift)
 <a name="unit-tests"></a>
 
 #### Unit Tests
