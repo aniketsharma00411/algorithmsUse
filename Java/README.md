@@ -15,6 +15,8 @@
 
 ## Arrays
 
+- [Array Sum](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/array_sum.java)
+
 - [checkIfArrayIsSorted](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/checkIfArrayIsSorted.java)
 
 - [deleteElement](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/deleteElement.java)
@@ -34,8 +36,6 @@
 - [rotateArrayDTimes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/rotateArrayDTimes.java)
 
 - [Two Pointer Algorithm](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Arrays/Two%20Pointer%20Algorithm)
-
-- [Arraysum using functions](https://github.com/Aditya060/algorithmsUse/blob/master/Java/Arrays/array_sum)
 
 <a name="recursion"></a>
 
