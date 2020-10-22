@@ -287,6 +287,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/binarySearch.java)
 - [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/ExponentialSearch.java)
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
+- [Maze](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Maze.java)
 
 <a name="sorting"></a>
 
