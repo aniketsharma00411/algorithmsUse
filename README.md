@@ -307,6 +307,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
 
+- [Pow (x, n)](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/pow.java)
+
 <a name="unit-tests"></a>
 
 #### Unit Tests
