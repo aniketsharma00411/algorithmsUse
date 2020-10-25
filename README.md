@@ -53,9 +53,11 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 ## Dynamic Programming
 
+- [0-1 Knapsack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/0-1_knapsack.cpp)
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
 - [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
+
 
 <a name="graph"></a>
 
