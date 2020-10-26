@@ -22,6 +22,8 @@
 
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 
+- [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
+
 <a name="graph"></a>
 
 ## Graph Algorithms
