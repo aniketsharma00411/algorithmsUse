@@ -53,9 +53,12 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 ## Dynamic Programming
 
+- [0-1 Knapsack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/0-1_knapsack.cpp)
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
+- [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 - [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
+
 
 <a name="graph"></a>
 
@@ -288,6 +291,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [BinarySearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/binarySearch.java)
 - [ExponentialSearch](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/ExponentialSearch.java)
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
+- [Maze](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Maze.java)
 
 <a name="sorting"></a>
 
@@ -308,6 +312,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
 
+- [Pow (x, n)](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/pow.java)
+
 <a name="unit-tests"></a>
 
 #### Unit Tests
@@ -325,6 +331,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Graph Algorithms](#graph)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
@@ -350,6 +357,11 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/quick_sort.js)
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
+
+<a name="others"></a>
+
+### Miscellaneous
+- [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Miscellaneous/tower_of_hanoi.js)
 
 <a name="unit-tests"></a>
 

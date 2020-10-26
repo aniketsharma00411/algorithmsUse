@@ -75,6 +75,8 @@
 
 - [Interpolation_Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Interpolation_Search.java)
 
+- [Maze](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Searching/Maze.java)
+
 <a name="sorting"></a>
 
 ## Sorting
@@ -98,6 +100,7 @@
 ## Miscellaneous
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
+- [Pow](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/pow.java)
 
 <a name="unit-tests"></a>
 

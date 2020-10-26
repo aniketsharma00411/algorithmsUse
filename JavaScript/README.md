@@ -7,6 +7,7 @@
 - [Graph Algorithms](#graph)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
@@ -38,6 +39,11 @@
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
+
+<a name="others"></a>
+
+## Miscellaneous
+- [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Miscellaneous/tower_of_hanoi.js)
 
 <a name="unit-tests"></a>
 
