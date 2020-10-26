@@ -381,6 +381,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Sorting](#sorting)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
+- [Machine Learning Algorithms](#machine-learning-algorithms)
 
 <a name="graph"></a>
 
@@ -432,6 +433,10 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Duplicate Zeros Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 - [Next President Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
+
+#### Machine Learning Algorithms
+
+- [Decision_tree_algorithm] (https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Machine%20Learning%20Algorithms/Decision_Tree_Algorithm/Decision_tree_algorithm.ipynb)
 
 <a name="Rust"></a>
 
