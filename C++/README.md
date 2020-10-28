@@ -20,16 +20,17 @@
 
 - [0-1 Knapsack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/0-1_knapsack.cpp)
 
+- [Activity Selection Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/activity_selection_problem.c)
+
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
 
 - [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
 
+- [Fractional Knapsack Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/fractional_knapsack.c)
+
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 
 - [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
-
-
-
 
 <a name="graph"></a>
 
@@ -102,7 +103,6 @@
 - [Stair Case Search](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Searching/stair_case_search.cpp)
 
 - [Jump Search](https://github.com/birat21sk/algorithmsUse/blob/master/C%2B%2B/Searching/jump_search.cpp)
-
 
 <a name="sorting"></a>
 

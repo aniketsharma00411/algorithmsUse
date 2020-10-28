@@ -54,11 +54,12 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 ## Dynamic Programming
 
 - [0-1 Knapsack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/0-1_knapsack.cpp)
+- [Activity Selection Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/activity_selection_problem.c)
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
 - [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
+- [Fractional Knapsack Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/fractional_knapsack.c)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 - [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
-
 
 <a name="graph"></a>
 
@@ -224,7 +225,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/selection_sort.go)
-<a name="misc"></a>
+  <a name="misc"></a>
 
 #### Miscellaneous
 
@@ -361,6 +362,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 <a name="others"></a>
 
 ### Miscellaneous
+
 - [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Miscellaneous/tower_of_hanoi.js)
 
 <a name="unit-tests"></a>
@@ -497,7 +499,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
 - [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/bubble_sort.swift)
-<a name="unit-tests"></a>
+  <a name="unit-tests"></a>
 
 #### Unit Tests
 
