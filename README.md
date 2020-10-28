@@ -53,10 +53,13 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 ## Dynamic Programming
 
+- [0-1 Knapsack](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/0-1_knapsack.cpp)
 - [Activity Selection Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/activity_selection_problem.c)
 - [Coin change](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_coin_change.cpp)
+- [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
 - [Fractional Knapsack Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/fractional_knapsack.c)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
+- [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
 
 <a name="graph"></a>
 
@@ -222,7 +225,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/quick_sort.go)
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/radix_sort.go)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Go/Sorting/selection_sort.go)
-<a name="misc"></a>
+  <a name="misc"></a>
 
 #### Miscellaneous
 
@@ -310,6 +313,8 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
 
+- [Pow (x, n)](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/pow.java)
+
 <a name="unit-tests"></a>
 
 #### Unit Tests
@@ -327,6 +332,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Graph Algorithms](#graph)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
 <a name="graph"></a>
@@ -353,6 +359,12 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Radix Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/radix_sort.js)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Sorting/selection_sort.js)
 
+<a name="others"></a>
+
+### Miscellaneous
+
+- [Tower of Hanoi](https://github.com/aniketsharma00411/algorithmsUse/blob/master/JavaScript/Miscellaneous/tower_of_hanoi.js)
+
 <a name="unit-tests"></a>
 
 #### Unit Tests
@@ -372,6 +384,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Sorting](#sorting)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
+- [Machine Learning Algorithms](#machine-learning-algorithms)
 
 <a name="graph"></a>
 
@@ -423,6 +436,10 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Duplicate Zeros Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/duplicate_zeros_test.py)
 - [Next President Test](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Unit%20Tests/next_president_test.py)
+
+#### Machine Learning Algorithms
+
+- [Decision_tree_algorithm] (https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Machine%20Learning%20Algorithms/Decision_Tree_Algorithm/Decision_tree_algorithm.ipynb)
 
 <a name="Rust"></a>
 
@@ -482,7 +499,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/selection_sort.swift)
 - [Bubble Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Swift/Sorting/bubble_sort.swift)
-<a name="unit-tests"></a>
+  <a name="unit-tests"></a>
 
 #### Unit Tests
 

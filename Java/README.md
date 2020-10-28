@@ -100,6 +100,7 @@
 ## Miscellaneous
 
 - [Valid Parentheses](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/valid_parentheses.java)
+- [Pow](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Java/Miscellaneous/pow.java)
 
 <a name="unit-tests"></a>
 
