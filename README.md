@@ -468,6 +468,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Insertion Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/insertion_sort.rs)
 - [Merge Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/merge_sort.rs)
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/selection_sort.rs)
+- [Heap Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Rust/Sorting/heap_sort.rs)
 
 <a name="unit-tests"></a>
 

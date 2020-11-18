@@ -44,6 +44,8 @@
 
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quick_sort.py)
 
+- [Heap Sort](https://github.com/Astha-Bhushan/algorithmsUse/blob/master/Python/Sorting/heap_sort.py)
+
 <a name="others"></a>
 
 ## Miscellaneous
