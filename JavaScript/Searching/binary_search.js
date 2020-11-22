@@ -15,3 +15,4 @@ function binarySearch(arr, elem) {
     }
     return -1;
 }
+
