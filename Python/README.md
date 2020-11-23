@@ -7,6 +7,7 @@
 - [Graph Algorithms](#graph)
 - [Searching](#searching)
 - [Sorting](#sorting)
+- [Tree Algorithms](#tree)
 - [Miscellaneous](#others)
 - [Unit Tests](#unit-tests)
 
@@ -43,6 +44,13 @@
 - [Selection Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/selection_sort.py)
 
 - [Quick Sort](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Sorting/quick_sort.py)
+
+<a name="tree"></a>
+
+### Tree Algorithms
+- [Balanced Binary Tree Check](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Tree%20Algorithms/balanced_binary_tree_check.py)
+
+- [Level Order Traversal](https://github.com/aniketsharma00411/algorithmsUse/blob/master/Python/Tree%20Algorithms/level_order_traversal.py)
 
 <a name="others"></a>
 
