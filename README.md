@@ -4,14 +4,6 @@ This repository is a single destination of all the common algorithms which are t
 
 If you find any issues with the currently present implementations, feel to to correct them or create an issue mentioning those.
 
-## Hacktoberfest
-
-This repo is Hacktoberfest friendly. But make sure that the you don't spam with PRs. Read the `CONTRIBUTING.md` file for Contribution Guidelines.
-
-For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
-
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
-
 ## Contributions
 
 Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
