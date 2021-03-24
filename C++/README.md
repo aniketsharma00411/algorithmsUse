@@ -27,7 +27,7 @@
 - [Fibonacci DP](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/dp_fibonacci.cpp)
 
 - [Fractional Knapsack Problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/fractional_knapsack.c)
-
+-[Jungling problem](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/juggling.cpp)
 - [Longest Common Subsequence](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/lcs.cpp)
 
 - [Matrix Chain Multiplication](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Dynamic%20Programming/matrix_chain_multiplication.cpp)
