@@ -80,6 +80,7 @@ You can also create an issue or [contact us](https://github.com/aniketsharma0041
 - [Matrix exponentiation](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/matrix_exponentiation.cpp)
 - [nCr_mod_prime](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/nCr_mod_prime.cpp)
 - [Pascal triangle](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pascal_triangle.cpp)
+- [Pattern find](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/pattern_find.cpp)
 - [Sieve of eratosthenes](https://github.com/aniketsharma00411/algorithmsUse/blob/master/C%2B%2B/Math/sieve_of_eratosthenes.cpp)
 
 <a name="searching"></a>
